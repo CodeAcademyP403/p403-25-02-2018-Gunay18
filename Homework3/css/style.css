@@ -1,0 +1,22 @@
+body{
+    height: 365px;
+    background-image: url(../images/bg.png);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20%;
+    padding-left: 10%;
+   
+    font-family: sans-serif;
+    
+}
+h1, p#small{
+    text-transform: uppercase;
+}
+p#small{
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+p{
+    color: rgba(0, 0, 0, 0.7);
+}
